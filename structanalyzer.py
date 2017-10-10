@@ -1,4 +1,6 @@
-
+'''
+testpush
+'''
 def combinedata(typedict,mothertype,result):
     for key, value in typedict.items():
         if value == 1:
